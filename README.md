@@ -136,9 +136,7 @@ Individual practice projects exploring web development concepts:
   <a href="https://github.com/NelluriVarsha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:varshanelluri216@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
+  📧 **Email:** [varshanelluri216@gmail.com](mailto:varshanelluri216@gmail.com)
 </p>
 
 ---
